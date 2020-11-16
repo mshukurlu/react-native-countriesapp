@@ -1,5 +1,5 @@
 {
-  "name": "countriesapp",
+  "name": "countriesapp111",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -12,7 +12,8 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "16.13.1",
-    "react-native": "0.63.3"
+    "react-native": "0.63.3",
+    "react-native-svg": "^9.0.7"
   },
   "devDependencies": {
     "@babel/core": "7.12.3",

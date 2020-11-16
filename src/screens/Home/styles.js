@@ -4,7 +4,7 @@ import {colors} from "../../config/colors";
 export const homeStyles = StyleSheet.create({
     container:{
         flex:1,
-        backgroundColor:white,
+        backgroundColor:'white',
     },
     searchInput:{
         alignSelf:'center'
@@ -37,6 +37,6 @@ export const countryObjectStyles = StyleSheet.create({
         width:32,
         height: 20,
         backgroundColor:'green',
-        borderRadis:4
+        borderRadius:4
     }
 });
